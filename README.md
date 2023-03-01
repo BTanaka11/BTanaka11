@@ -1,7 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on a personal website
 - 🌱 I’m currently learning React Router
-- 👯 I’m looking to collaborate on any interesting, early stage projects with a small to medium sized active community
 - 💬 Ask me about any of my repos
 - 📫 How to reach me: linkedin.com/in/bentanaka/ or BTanaka11@hotmail.com
 - 😄 Pronouns: He/Him
