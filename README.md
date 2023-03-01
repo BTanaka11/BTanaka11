@@ -9,4 +9,4 @@
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BTanaka11&hide=stars&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub Views](https://komarev.com/ghpvc/?username=BTanaka11&color=FAC151)
+![GitHub Views](https://komarev.com/ghpvc/?username=BTanaka11)
