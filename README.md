@@ -15,4 +15,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=btanaka11&show_icons=true&layout=compact" alt="btanaka11" /></p>
 
+
+<!--- 
 ![GitHub Views](https://komarev.com/ghpvc/?username=BTanaka11)
+--->
